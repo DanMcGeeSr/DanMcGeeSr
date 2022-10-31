@@ -1,0 +1,3 @@
+I am by education and inclination a biostatistician. Having said that, I have been a data scientist throughout my career by any definition I am aware of. I have been involved in all aspects of data from numerous studies both observational and experimental. This involvement required the use of computer science (selecting hardware and software and the design and execution of data collection, data management), statistics (study design, data analysis and interpretation) and subject matter (reporting and publishing the results). More information on my experience in these skills as well as teaching them and consulting about them can be found on my website (https://danmcgeesr.github.io).
+
+I am now emeritus (academic speak for retired) and retain these interests.
